@@ -1,11 +1,11 @@
-About r-adegraphics
-===================
+About r-adegraphics-feedstock
+=============================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-adegraphics-feedstock/blob/main/LICENSE.txt)
 
 Home: http://pbil.univ-lyon1.fr/ADE-4, Mailing list: http://listes.univ-lyon1.fr/wws/info/adelist
 
 Package license: GPL-2.0-or-later
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-adegraphics-feedstock/blob/main/LICENSE.txt)
 
 Summary: Graphical functionalities for the representation of multivariate data. It is a complete re-implementation of the functions available in the 'ade4' package.
 
