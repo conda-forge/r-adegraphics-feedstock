@@ -1,4 +1,4 @@
-{% set version = "1.0-17" %}
+{% set version = "1.0-18" %}
 {% set posix = 'm2-' if win else '' %}
 {% set native = 'm2w64-' if win else '' %}
 
@@ -10,7 +10,7 @@ source:
   url:
     - {{ cran_mirror }}/src/contrib/adegraphics_{{ version }}.tar.gz
     - {{ cran_mirror }}/src/contrib/Archive/adegraphics/adegraphics_{{ version }}.tar.gz
-  sha256: cbee94b31e1555bd1627feb5e0b279e8d40da7e4792aac2b0d5842a62905e38c
+  sha256: 8fe07fc0f73e9917e098de2ee8e6fdb3e07775446683b6222692a3298e4d563c
 
 build:
   merge_build_host: true  # [win]
